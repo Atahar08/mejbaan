@@ -1,5 +1,5 @@
 # Mejbaan
-
+![image](https://github.com/Atahar08/mejbaan/assets/167901118/c0eac441-61d5-44bd-ba1e-1d6e9aee80a6)
 
 Mejbaan is a surplus food sharing web application aimed at reducing food waste and combating hunger. The app enables users to share their extra food items with those in need, thereby contributing to the United Nations' Sustainable Development Goal of "Zero Hunger."
 
