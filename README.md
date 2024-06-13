@@ -12,7 +12,7 @@ Mejbaan is a surplus food sharing web application aimed at reducing food waste a
 ## Acknowledgments
 
 # Introduction
-Mejbaan is a project developed for the hackathon with a mission to address the critical issue of food wastage and hunger in the world. More than one-third of all food produced is wasted, while millions of people suffer from hunger and malnutrition every day. This web app aims to bridge this gap by creating a platform where individuals can share their surplus food items, and NGOs or volunteers can collect and distribute the food to those in need.
+Mejbaan is a project developed for the Code Wars Bangladesh hackathon with a mission to address the critical issue of food wastage and hunger in the world. More than one-third of all food produced is wasted, while millions of people suffer from hunger and malnutrition every day. This web app aims to bridge this gap by creating a platform where individuals can share their surplus food items, and NGOs or volunteers can collect and distribute the food to those in need.
 
 # Problem Statement
 Approximately 2.5 billion tonnes of food are wasted annually, while around 828 million people suffer from hunger on a daily basis. The Mejbaan project tackles this issue by providing a user-friendly platform for surplus food sharing, enabling people to make a meaningful impact in their communities.
@@ -44,7 +44,12 @@ Approximately 2.5 billion tonnes of food are wasted annually, while around 828 m
 
 # How to Use
 
-1. Clone the repository:```  git clone https://github.com/nawaz0x1/mejbaan.git  ```
-2. Install dependencies:```  npm install ```
+1. Clone the repository: ```  git clone https://github.com/nawaz0x1/mejbaan.git  ```
+2. Install dependencies: ```  npm install ```
 3. Set up environment variables for Appwrite configuration.
-4. Run the application:``` npm run dev ```
+4. Run the application: ``` npm run dev ```
+
+# Acknowledgments
+My sincere appreciation goes out to Code Wars Bangladesh for setting up the hackathon and supporting endeavours aimed at fulfilling the Sustainable Development Goals of the United Nations. We are very grateful to the volunteers, judges, and mentors for their help and encouragement during this project.
+
+Let's make a difference in the fight against hunger together!
