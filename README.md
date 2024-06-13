@@ -18,9 +18,11 @@ Mejbaan is a project developed for the hackathon with a mission to address the c
 Approximately 2.5 billion tonnes of food are wasted annually, while around 828 million people suffer from hunger on a daily basis. The Mejbaan project tackles this issue by providing a user-friendly platform for surplus food sharing, enabling people to make a meaningful impact in their communities.
 
 # Features
-. User Registration and Authentication: Users can sign up and log in securely to their accounts, ensuring a personalized experience.
-
-. Surplus Food Listing: Users can list the surplus food items they wish to donate. They can provide details such as the type of food, quantity, and expiry date (if applicable).
-
-. Location-based Search: Mejbaan uses GPS/Location Services to provide accurate locations and distances between food donors and potential recipients.
+- User Registration and Authentication: Users can sign up and log in securely to 
+  their accounts, ensuring a personalized experience.
+- Surplus Food Listing: Users can list the surplus food items they wish to donate. 
+  They can provide details such as the type of food, quantity, and expiry date (if 
+  applicable).
+- Location-based Search: Mejbaan uses GPS/Location Services to provide accurate 
+  locations and distances between food donors and potential recipients.
 
