@@ -26,3 +26,18 @@ Approximately 2.5 billion tonnes of food are wasted annually, while around 828 m
 - Location-based Search: Mejbaan uses GPS/Location Services to provide accurate 
   locations and distances between food donors and potential recipients.
 
+# Technologies Used
+- Front-end:
+
+  - JavaScript
+  - React.js
+  - Next.js
+  - Tailwind CSS
+  - Appwrite (Open-source Backend as a Service) for user authentication and data 
+    storage.
+- Back-end (handled by Appwrite):
+
+  - Database: MongoDB
+- API Integration:
+
+  - Geolocation API (Browser)
