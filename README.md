@@ -44,10 +44,19 @@ Approximately 2.5 billion tonnes of food are wasted annually, while around 828 m
 
 # How to Use
 
-1. Clone the repository: ```  git clone https://github.com/nawaz0x1/mejbaan.git  ```
-2. Install dependencies: ```  npm install ```
+1. Clone the repository:
+ ```
+ git clone https://github.com/nawaz0x1/mejbaan.git
+ ```
+2. Install dependencies:
+```
+npm install
+```
 3. Set up environment variables for Appwrite configuration.
-4. Run the application: ``` npm run dev ```
+4. Run the application:
+```
+npm run dev
+```
 
 # Acknowledgments
 My sincere appreciation goes out to Code Wars Bangladesh for setting up the hackathon and supporting endeavours aimed at fulfilling the Sustainable Development Goals of the United Nations. We are very grateful to the volunteers, judges, and mentors for their help and encouragement during this project.
